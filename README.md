@@ -1,6 +1,7 @@
 # ALURA Challenge Amigo Secreto
 
 **Autor:** dlucianop31
+**LinkedIn:** https://www.linkedin.com/in/dlucianop-299b2722b/
 
 ---
 
